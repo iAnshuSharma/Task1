@@ -3,6 +3,9 @@ h2{
     font-weight: 300;
     text-decoration:solid;
 }
+#new{
+    display:block;
+}
 
 h1{
     text-decoration:black double underline;
