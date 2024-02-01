@@ -1,0 +1,20 @@
+h2{
+    
+    font-weight: 300;
+    text-decoration:solid;
+}
+
+h1{
+    text-decoration:black double underline;
+}
+h2:hover {
+    display: inline;
+    box-shadow: 2px 2px 5px goldenrod;
+    background-color:black;
+    color: floralwhite;
+    
+}
+div{
+    display: flex;
+}
+  
